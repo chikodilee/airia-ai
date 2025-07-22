@@ -16,7 +16,7 @@ Airia is designed to:
 
 ---
 
-## 🚀 Available Features
+## 🚀 MVP Available Features
 
 ✅ **Conversational AI Chat Interface**  
 Talk to Airia naturally —> just type where you're going, and let it handle the rest.
